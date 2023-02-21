@@ -1,7 +1,7 @@
 ---
-layout: post
 title: My Journey to Development
 categories: [Miscellaneous]
+layout: post
 ---
 
 Hola. 👋🏾
