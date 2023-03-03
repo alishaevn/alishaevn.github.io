@@ -2,6 +2,7 @@
 title: Build A Modal From Scratch
 categories: [JavaScript]
 layout: post
+excerpt: "While redoing an earlier version of my website, again 😅, I decided it would be only HTML, CSS and JavaScript."
 ---
 
 Hola. 👋🏾

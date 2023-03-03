@@ -2,6 +2,7 @@
 title: React Class to Function Pt. 5
 categories: [JavaScript, React]
 layout: post
+excerpt: "What I'm calling helper functions are simply the functions written outside of the render method, that are called inside the return statement."
 ---
 
 Hola. 👋🏾

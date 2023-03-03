@@ -2,6 +2,7 @@
 title: Rails Routes in Browser
 categories: [Ruby, Rails]
 layout: post
+excerpt: "When I first started learning Rails a lot of the rails magic threw me off because I didn't understand how all of this stuff just came to be."
 ---
 
 Hola. 👋🏾

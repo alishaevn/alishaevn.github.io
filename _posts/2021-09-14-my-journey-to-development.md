@@ -2,6 +2,7 @@
 title: My Journey to Development
 categories: [Miscellaneous]
 layout: post
+excerpt: "Over the course of my life I've considered a few different career paths."
 ---
 
 Hola. 👋🏾

@@ -2,6 +2,7 @@
 title: React Class to Function Pt. 2
 categories: [JavaScript, React]
 layout: post
+excerpt: "Below is a simplified version of the React class component from part 1 of this series."
 ---
 
 Hola. 👋🏾

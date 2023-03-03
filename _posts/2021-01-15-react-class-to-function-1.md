@@ -2,6 +2,7 @@
 title: React Class to Function Pt. 1
 categories: [JavaScript, React]
 layout: post
+excerpt: "Below is a condensed example of a class component that I converted into a functional component in a React Native app a few weeks ago."
 ---
 
 Hola. 👋🏾

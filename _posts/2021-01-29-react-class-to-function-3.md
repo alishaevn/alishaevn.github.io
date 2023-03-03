@@ -2,6 +2,7 @@
 title: React Class to Function Pt. 3
 categories: [JavaScript, React]
 layout: post
+excerpt: "A constructor in a React component is used for 1 of 2 reasons: 1. When setting up local state. 2. When binding a value."
 ---
 
 Hola. 👋🏾

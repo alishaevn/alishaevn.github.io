@@ -2,6 +2,7 @@
 title: How To Write A Jest Test For Nested Props
 categories: [JavaScript]
 layout: post
+excerpt: "When writing a jest test, sometimes we'd like to check for a value to be present somewhere in the file tree (aka, the array)."
 ---
 
 Hola. 👋🏾

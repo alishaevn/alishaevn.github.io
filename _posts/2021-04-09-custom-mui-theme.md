@@ -2,11 +2,12 @@
 title: Create A Custom MUI Theme
 categories: [JavaScript]
 layout: post
+excerpt: "The default Material UI (MUI) theme comes with a lot of features right out of the box."
 ---
 
 Hola. 👋🏾
 
-The default Material UI (MUI) theme comes with a lot of feaures [right out of the box](https://material-ui.com/customization/default-theme/). However, I highly recommend that you customize it for your own brand purposes. In the colors, typography and index "files" below are examples (some more complex than others) of how I've created a custom theme before.
+The default Material UI (MUI) theme comes with a lot of features [right out of the box](https://material-ui.com/customization/default-theme/). However, I highly recommend that you customize it for your own brand purposes. In the colors, typography and index "files" below are examples (some more complex than others) of how I've created a custom theme before.
 
 `theme/colors.js`
 ``` js

@@ -2,6 +2,7 @@
 title: Imposter Syndrome
 categories: [Miscellaneous]
 layout: post
+excerpt: "A few weeks ago we had a welcome meeting with the new LEARN Academy class."
 ---
 
 Hola. 👋🏾

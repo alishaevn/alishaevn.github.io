@@ -2,6 +2,7 @@
 title: Large Text Scrolling
 categories: [JavaScript, React Native]
 layout: post
+excerpt: "Allowing your mobile app to maintain a positive user experience when a user sets their phone to use a larger font size can be tricky."
 ---
 
 Hola. 👋🏾

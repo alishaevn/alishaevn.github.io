@@ -2,6 +2,7 @@
 title: React Class to Function Pt. 4
 categories: [JavaScript, React]
 layout: post
+excerpt: "Lifecycle methods are a pretty big deal in class components."
 ---
 
 Hola. 👋🏾
