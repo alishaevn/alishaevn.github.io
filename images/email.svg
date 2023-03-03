@@ -1,0 +1,7 @@
+<svg id='email' data-name='email' xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'>
+  <g id='mail'>
+    <path id='Path_11' data-name='Path 11' d='M149.763,144H133.625l8.069,6.917Zm0,0' transform='translate(-121.694 -131.143)' fill='#d8ad00'/>
+    <path id='Path_12' data-name='Path 12' d='M129.286,161.124a.713.713,0,0,1-.465-.172L120,153.391v13.447h18.571V153.391l-8.821,7.561A.713.713,0,0,1,129.286,161.124Zm0,0' transform='translate(-109.286 -139.695)' fill='#d8ad00'/>
+    <path id='Path_13' data-name='Path 13' d='M20,0A20,20,0,1,0,40,20,20,20,0,0,0,20,0ZM30.714,27.857a.714.714,0,0,1-.714.714H10a.714.714,0,0,1-.714-.714V12.143A.714.714,0,0,1,10,11.429H30a.714.714,0,0,1,.714.714Zm0,0' fill='#d8ad00'/>
+  </g>
+</svg>

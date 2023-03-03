@@ -1,29 +1,21 @@
 ---
-layout: page
 title: About
 permalink: /about/
+layout: page
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+👩🏾‍💻 Hello again!
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+My name is Alisha Evans. I’m currently a software engineer for Software Services by Scientist.com. Thorough, easy to follow documentation is one of my core tenets. Aside from writing here, you can find me updating the README on current projects, submitting articles for our organizational playbook or crafting comprehensive PR and ticket comments.
 
-## Features
+Before becoming a developer I worked in technical support while doing occasional freelance work in graphic design and photography. I’ve executed visual brand identities for individuals and companies. I’ve also photographed, culled and edited photos, some of which were used in professional publications. Today the majority of my designing and photography is done on a personal level as a hobby.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+On a more personal note:
+- Christian
+- HBCU graduate (#theeILove)
+- Former athlete and coach
+- Logophile
+- Puzzle builder
+- Golden State Warriors fan
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+If you’d like to chat or just be a part of each other’s networks, reach out to me on any of my social media platforms!
